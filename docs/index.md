@@ -11,48 +11,53 @@ Welcome to NHT Labs.
        - **Prism Central** - 30 minutes
        - **XRAY** - 60 minutes
 
-## What's New
+## Prerequisite
+
+- 
+
+## Environment Info
 
 - Workshop uses for the following software versions:
-  - AOS 6.7.1
-  - Prism Central pc.2023.x.x
+  - AOS 
+  - Prism Central pc.2023
 
+
+## Architecture
+
+- 
 ## Agenda
+• Getting Started
+    • Prerequisite
+    • Environment Information
+    • Agenda
+    • Architecture
+• Requesting NC2 on Azure Free Trial
+• Whitelisting Request for NC2 on Azure
+    • Upgrade a support plan
+    • Create a case
+• Configuration on Azure
+    • Register Resource Providers
+    • Configure a custom role
+    • Configure a NC2 application
+• Creating Cloud Clusters from NC2 Console
+    • Add an organization
+    • Add a cloud account
+    • Create a Cluster
+
+# Requesting NC2 on Azure Free Trial
+
+# Whitelisting Request for NC2 on Azure
+## Upgrade a support plan
+## Create a case
+
+# Configuration on Azure
+## Register Resource Providers
+## Configure a custom role
+## Configure a NC2 application
+
+# Creating Cloud Clusters from NC2 Console
+ ## Add an organization
+ ## Add a cloud account
+ ## Create a Cluster
 
 
-
-## Initial Setup
-
-- Take note of the *Passwords* being used from you RX reservation details
-- Log into your virtual desktops (connection info below)
-- Login to Global Protect VPN if you have access
-
-## Cluster Assignment
-
-The instructor will inform the attendees their assigned clusters.
-
-!!! note
-
-    If these are Single Node Clusters (SNCs) pay close attention on the networking part. The SNCs are setup and configured differently to the 3 or 4 node clusters
-
-
-## Environment Details
-
-Nutanix Workshops are intended to be run in the Nutanix Hosted POC environment. Your cluster will be provisioned with all necessary images,networks, and VMs required to complete the exercises.
-
-### Networking
-
-As we are able to provide three/four node clusters and single node clusters in the HPOC environment, we need to describe each sort of cluster separately. The clusters are setup and configured differently.
-
-### Credentials
-
-!!! note
-
-    The *Cluster Password* is unique to each cluster and will be provided by the leader of the Workshop.
-
-
-## Access Instructions
-
-Check your HPOC cluster reservation email for details.
-
-new text

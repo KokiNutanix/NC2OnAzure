@@ -39,7 +39,7 @@ theme:
   - search.highlight
   - search.suggest
   - toc.follow
-  #  - content.code.copy
+  - content.code.copy
 
   palette:
 
@@ -91,3 +91,5 @@ plugins:
 
 nav:
     - Home: index.md
+    - NC2 Free Trial: nc2_freetrial\nc2_freetrial.md
+    - Azure Whitelisting: whitelisting_azure\whitelisting_azure.md
