@@ -26,20 +26,22 @@ Most of you might end up just reading through the lab to complete untill NC2 on 
 
 
 ## Architecture
-The feature of NC2 on Azure is simplifying the management of both cloud and on-premises environments by utilizing Flow Virtual Networking to create virtual networks on Azure.
- ![](image.png)
-- 
 
-## Agenda
-• Requesting NC2 on Azure Free Trial
-• Whitelisting Request for NC2 on Azure
-    • Upgrade a support plan
-    • Create a case
-• Configuration on Azure
-    • Register Resource Providers
-    • Configure a custom role
-    • Configure a NC2 application
-• Creating Cloud Clusters from NC2 Console
-    • Add an organization
-    • Add a cloud account
-    • Create a Cluster
+The feature of NC2 on Azure is simplifying the management of both cloud and on-premises environments by utilizing Flow Virtual Networking to create virtual networks on Azure.
+
+![](image.png)
+
+## Agenda for the Lab
+
+- Requesting NC2 on Azure Free Trial
+- Whitelisting Request for NC2 on Azure
+    - Upgrade a support plan
+    -Create a case
+- Configuration on Azure
+    - Register Resource Providers
+    - Configure a custom role
+    - Configure a NC2 application
+- Creating Cloud Clusters from NC2 Console
+    - Add an organization
+    - Add a cloud account
+    - Create a Cluster
