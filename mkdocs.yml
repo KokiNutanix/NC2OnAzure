@@ -1,11 +1,11 @@
 site_name: Nutanix NC2 on Azure
-site_url: 
+site_url: https://github.com/KokiNutanix/NC2OnAzure.git
 site_author: Koki Nakahata
 
 # Repository
 
-repo_name: 
-repo_url: 
+repo_name: KokiNutanix/NC2OnAzure
+repo_url: https://github.com/KokiNutanix/NC2OnAzure.git
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2024 Nutanix Enablement Practice
@@ -82,6 +82,12 @@ plugins:
         - ">"
         - ">>>"
   - search
+  - i18n:
+      default_language: en
+      languages:
+        en: English
+        ja: 日本語
+  
 
 # # Style sheeting here
 # extra_css:
@@ -93,3 +99,6 @@ nav:
     - Home: index.md
     - NC2 Free Trial: nc2_freetrial\nc2_freetrial.md
     - Azure Whitelisting: whitelisting_azure\whitelisting_azure.md
+    - Configuration Azure: configuration_azure\configuration_azure.md
+    - Creating NC2: creating_nc2\creating_nc2.md
+  
