@@ -1,10 +1,14 @@
+---
+title: Azure Whitelisting
+author: git
+---
 
 # Azure Whitelisting
 
 To get started NC2 on Azure, you need to subscribe a paid plan. A DEVELOPER plan is the lowest cost so upgrade to this paid plan if your current plan is BASIC.
 
 !!!Info
-     Your Azure subscription must be whitelisted to start NC2 on Azure trial and only support enginners from Microsoft can handle this.
+     Your Azure subscription must be whitelisted to start NC2 on Azure trial and only support engineers from Microsoft can handle this.
 
 ![](images/image.png)
 
