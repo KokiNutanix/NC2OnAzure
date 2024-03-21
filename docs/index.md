@@ -19,10 +19,11 @@ Most of you might end up just reading through the lab to complete until NC2 on A
 
 ## Environment Info
 
-- Workshop uses for the following software versions:
-  + AOS 6.7.1.5
-  + Prism Central pc.2023
-  + Azure Baremetal：AN36P
+Workshop uses for the following software versions:
+
+ + AOS 6.7.1.5
+ + Prism Central pc.2023
+ + Azure Baremetal：AN36P
 
 
 ## Architecture
@@ -32,15 +33,15 @@ The feature of NC2 on Azure is simplifying the management of both cloud and on-p
 - 
 
 ## Agenda
-• Requesting NC2 on Azure Free Trial
-• Whitelisting Request for NC2 on Azure
-    • Upgrade a support plan
-    • Create a case
-• Configuration on Azure
-    • Register Resource Providers
-    • Configure a custom role
-    • Configure a NC2 application
-• Creating Cloud Clusters from NC2 Console
-    • Add an organization
-    • Add a cloud account
-    • Create a Cluster
++ Requesting NC2 on Azure Free Trial
++ Whitelisting Request for NC2 on Azure
+    + Upgrade a support plan
+    + Create a case
++ Configuration on Azure
+    + Register Resource Providers
+    + Configure a custom role
+    + Configure a NC2 application
++ Creating Cloud Clusters from NC2 Console
+    + Add an organization
+    + Add a cloud account
+    + Create a Cluster
