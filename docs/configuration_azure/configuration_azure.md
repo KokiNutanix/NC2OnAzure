@@ -157,7 +157,7 @@ Copy JSON below:
     }
 } 
 ```
-To refer to the latest JSON, visit [Creating an Azure Custom Role](https://portal.nutanix.com/page/documents/details?targetId=Nutanix-Cloud-Clusters-Azure:nc2-clusters-azure-create-custom-iam-role-t.html)
+To refer to the latest JSON, visit [Creating an Azure Custom Role](https://portal.nutanix.com/page/documents/details?targetId=Nutanix-Cloud-Clusters-Azure:nc2-clusters-azure-create-custom-iam-role-t.html).
 
 Click a JSON tab and an Edit button, and paste the JSON you just copied.
 Make sure that you substitue "subscription_id" with your own subscription ID at the 6th line in the image below.
@@ -188,7 +188,7 @@ Navigate to your subscription>Access control (IAM) and click an Add button to ex
 Serach by "nc2-custom-role".
 ![](images/image8.png)
 
-On the Members` tab, click +Select members, search by an application name you configured, and click a  Select button.
+On the Members` tab, click +Select members, search by an application name you configured, and click a Select button.
 ![](images/image9.png)
 
 Click a Review + assign button.
