@@ -28,4 +28,4 @@ Click Next again.
 Provide additional details as you prefer, proceed to Review + create and click Create.
 
 Genreally it will take 3 bussines days to be whitelisted. 
-After your subscription has been allowlisted, you can proceed to next section.
+After your subscription has been allowlisted, you can proceed to the next section.
