@@ -5,11 +5,14 @@ author: git
 
 # Requesting Free Trial for NC2
 
-You first  request your free trial for NC2 here: [NC2 on Azure Free Trial](https://www.nutanix.com/products/nutanix-cloud-clusters/azure/free-trial)
+You first request your free trial for NC2 here: [NC2 on Azure Free Trial](https://www.nutanix.com/products/nutanix-cloud-clusters/azure/free-trial)
 
 ![](images/image2.png)
 
 Provide your email address and details.
+
+???Info
+       Nutanix domain and free email addresses (ex. iCloud or Gmail) are not allowed as email address. Use your provider/comapny address that you have.
 
 !!!warning
           Nutanix domain and free email addresses (ex. iCloud or Gmail) are not allowed as email address. Use your provider/company address that you have.
