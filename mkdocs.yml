@@ -99,6 +99,6 @@ nav:
     - Home: index.md
     - NC2 Free Trial: nc2_freetrial/nc2_freetrial.md
     - Azure Whitelisting: whitelisting_azure/whitelisting_azure.md
-    - Configuration Azure: configuration_azure/configuration_azure.md
+    - Configuring Azure: configuration_azure/configuration_azure.md
     - Creating NC2: creating_nc2/creating_nc2.md
   
