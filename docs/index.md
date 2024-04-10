@@ -1,4 +1,7 @@
-
+---
+title: Getting Started
+author: git
+---
 
 # Getting Started 
 
@@ -9,12 +12,14 @@ This bootcamp aims at understanding deployment flow of NC2 on Azure.
 !!!info
        Estimated time to complete the labs is as follows:
 
+
        - **Requesting NC2 Trail License** -  minutes
        - **Whitelisting Requests** -  minutes
        - **Configuration on Azure** -  minutes
        - **Creating Clusters from NC2 Console** -  minutes
 
 ## Prerequisite
+
 Most of you might end up just reading through the lab to complete until NC2 on Azure on RX is availale because Azure costs you and any software purchases on personal credit cards are not allowed.
 
 ## Environment Info
@@ -25,23 +30,22 @@ Workshop uses for the following software versions:
  + Prism Central pc.2023
  + Azure Baremetal：AN36P
 
-
 ## Architecture
 
 The feature of NC2 on Azure is simplifying the management of both cloud and on-premises environments by utilizing Flow Virtual Networking to create virtual networks on Azure.
- ![](image.png)
-- 
+![](image.png)
 
-## Agenda
-+ Requesting NC2 on Azure Free Trial
-+ Whitelisting Request for NC2 on Azure
-    + Upgrade a support plan
-    + Create a case
-+ Configuration on Azure
-    + Register Resource Providers
-    + Configure a custom role
-    + Configure a NC2 application
-+ Creating Cloud Clusters from NC2 Console
-    + Add an organization
-    + Add a cloud account
-    + Create a Cluster
+## Agenda for the Lab
+
+- Requesting NC2 on Azure Free Trial
+- Whitelisting Request for NC2 on Azure
+    - Upgrade a support plan
+    -Create a case
+- Configuration on Azure
+    - Register Resource Providers
+    - Configure a custom role
+    - Configure a NC2 application
+- Creating Cloud Clusters from NC2 Console
+    - Add an organization
+    - Add a cloud account
+    - Create a Cluster
